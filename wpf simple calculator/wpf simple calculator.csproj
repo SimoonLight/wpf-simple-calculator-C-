@@ -10,12 +10,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="Images\16033.png">
+    <None Remove="Images\16033.png" />
+    <None Remove="Images\clock-142.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\16033.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="Images\clock-142.png">
+    </Resource>
+    <Resource Include="Images\clock-142.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    </Resource>
   </ItemGroup>
 
 </Project>

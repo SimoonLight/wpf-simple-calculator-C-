@@ -22,12 +22,12 @@
                 <ColumnDefinition Width="1*"/>
             </Grid.ColumnDefinitions>
 
-            <Image Source="/images/16033.png" Grid.Row="0" Grid.Column="0" Stretch="Fill" VerticalAlignment="Center"
+            <Image Source="/Images/16033.png" Grid.Row="0" Grid.Column="0" Stretch="Fill" VerticalAlignment="Center"
                    HorizontalAlignment="Center" Visibility="Visible" ></Image>
 
             <Label Content="Standard" Grid.Column="1" FontSize="55"></Label>
 
-            <Image Source="/images/clock-142.png" Grid.Row="0" Grid.Column="2" Stretch="Fill" VerticalAlignment="Center"
+            <Image Source="/Images/clock-142.png" Grid.Row="0" Grid.Column="2" Stretch="Fill" VerticalAlignment="Center"
              HorizontalAlignment="Center" Visibility="Visible" ></Image>
 
 
